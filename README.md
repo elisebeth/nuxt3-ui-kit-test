@@ -1,6 +1,6 @@
 # vue3-uikit-storybook
 
-# Техническое задание на позицию верстальщика
+# Техническое задание на позицию junior frontend разработчика
 
 1. Необходимо зайти в figma и найти страницы `Color`, `Typography`, `Timeline` (`https://www.figma.com/file/tDmMcstFkRv6nJBc8PBWY5/UI-KIT-(Copy)?type=design&node-id=58%3A1857&mode=design&t=rdjEtyMu5A6nDGv9-1`)
 2. В проекте установлены все необходимые инструменты для разработки (выполнить установку зависимостей)
